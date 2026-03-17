@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
-class Program
+class StringHandler_V7
 {
     [DllImport("kernel32.dll")]
     static extern bool SetConsoleCP(uint wCodePageID);
