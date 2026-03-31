@@ -1,4 +1,9 @@
-﻿using System;
+﻿// 3. Ввести цілий двомірний рваний масив (jagged array),
+// що складається з рядків довільної довжини. Після рядків
+// із мінімальною сумою елементів вставити рядок, що складається з «0».
+// Реалізувати функцію обчислення суми рядка.
+
+using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
